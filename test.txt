@@ -1,4 +1,6 @@
 To jest linia 1
 To jest linia 2
+aswierczek 1
 swirek linia 1
+aswierczek 2
 swirek linia 2
