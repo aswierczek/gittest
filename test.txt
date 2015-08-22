@@ -8,4 +8,6 @@ swirek linia 3
 aswierczek linia 3
 swirek linia 4
 aswierczek linia 4
-swirek 5aswierczek 5
+swirek 5
+aswierczek 5
+swirek 6
