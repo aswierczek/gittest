@@ -4,5 +4,7 @@ aswierczek 1
 swirek linia 1
 aswierczek 2
 swirek linia 2
+swirek linia 3
 aswierczek linia 3
+swirek linia 4
 aswierczek linia 4
